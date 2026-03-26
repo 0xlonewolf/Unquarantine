@@ -1,0 +1,2 @@
+bin/Release/net8.0/win-x64/publish/Unquarantine.exe filter=lfs diff=lfs merge=lfs -text
+bin/Release/net8.0/win-x64/publish/Unquarantine.pdb filter=lfs diff=lfs merge=lfs -text
