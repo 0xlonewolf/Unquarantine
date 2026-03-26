@@ -9,6 +9,7 @@ publish/
 # (Uploading the full bin/ and obj/ trees would make the repo enormous.)
 !bin/Release/
 !bin/Release/net8.0/
+!bin/Release/net8.0/win-x64/
 !bin/Release/net8.0/win-x64/publish/
 !bin/Release/net8.0/win-x64/publish/Unquarantine.exe
 !bin/Release/net8.0/win-x64/publish/Unquarantine.pdb
