@@ -1,0 +1,2 @@
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\bin\Release\net8.0\win-x64\publish\Unquarantine.pdb
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\bin\Release\net8.0\win-x64\publish\Unquarantine.exe

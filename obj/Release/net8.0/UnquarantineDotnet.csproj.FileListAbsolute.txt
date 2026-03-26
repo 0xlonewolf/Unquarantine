@@ -1,0 +1,17 @@
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\bin\Release\net8.0\Unquarantine.exe
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\bin\Release\net8.0\Unquarantine.deps.json
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\bin\Release\net8.0\Unquarantine.runtimeconfig.json
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\bin\Release\net8.0\Unquarantine.dll
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\bin\Release\net8.0\Unquarantine.pdb
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\bin\Release\net8.0\BouncyCastle.Crypto.dll
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\UnquarantineDotnet.csproj.AssemblyReference.cache
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\UnquarantineDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\UnquarantineDotnet.AssemblyInfoInputs.cache
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\UnquarantineDotnet.AssemblyInfo.cs
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\UnquarantineDotnet.csproj.CoreCompileInputs.cache
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\Unquaran.F77199A0.Up2Date
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\Unquarantine.dll
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\refint\Unquarantine.dll
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\Unquarantine.pdb
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\UnquarantineDotnet.genruntimeconfig.cache
+C:\Tools\Quarantine\Unquarantine-dotnet\UnquarantineDotnet\obj\Release\net8.0\ref\Unquarantine.dll

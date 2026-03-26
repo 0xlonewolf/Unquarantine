@@ -1,0 +1,17 @@
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\DexrayDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\DexrayDotnet.AssemblyInfoInputs.cache
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\DexrayDotnet.AssemblyInfo.cs
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\DexrayDotnet.csproj.CoreCompileInputs.cache
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\DexrayDotnet.genruntimeconfig.cache
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\bin\Release\net8.0\BouncyCastle.Crypto.dll
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\DexrayDotnet.csproj.AssemblyReference.cache
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\DexrayDo.72E0A69B.Up2Date
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\bin\Release\net8.0\recover_defender_quarantine.exe
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\bin\Release\net8.0\recover_defender_quarantine.deps.json
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\bin\Release\net8.0\recover_defender_quarantine.runtimeconfig.json
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\bin\Release\net8.0\recover_defender_quarantine.dll
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\bin\Release\net8.0\recover_defender_quarantine.pdb
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\recover_defender_quarantine.dll
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\refint\recover_defender_quarantine.dll
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\recover_defender_quarantine.pdb
+C:\Tools\Quarantine\dexray-dotnet\DexrayDotnet\obj\Release\net8.0\ref\recover_defender_quarantine.dll

@@ -1,18 +1,24 @@
-bin/**
-obj/**
+# Include full build outputs.
+# We unignore the whole `bin/` and `obj/` trees, but explicitly ignore `bin/Debug/`.
+bin/
+!bin/
+!bin/**
+bin/Debug/
+bin/Debug/**
+
+obj/
+!obj/
+!obj/**
 
 # publish outputs (self-contained single-file)
 publish/
 **/publish/
 
-# Keep the actual published binary committed for convenience.
-# (Uploading the full bin/ and obj/ trees would make the repo enormous.)
-!bin/Release/
-!bin/Release/net8.0/
-!bin/Release/net8.0/win-x64/
-!bin/Release/net8.0/win-x64/publish/
-!bin/Release/net8.0/win-x64/publish/Unquarantine.exe
-!bin/Release/net8.0/win-x64/publish/Unquarantine.pdb
+# But include published artifacts inside bin/Release
+!bin/Release/**/publish/
+!bin/Release/**/publish/**
+
+# Note: we intentionally do include `bin/Release/**/publish/**` above.
 
 # test artifacts / extracted content
 *.out
