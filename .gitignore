@@ -1,9 +1,17 @@
-bin/
-obj/
+bin/**
+obj/**
 
 # publish outputs (self-contained single-file)
 publish/
 **/publish/
+
+# Keep the actual published binary committed for convenience.
+# (Uploading the full bin/ and obj/ trees would make the repo enormous.)
+!bin/Release/
+!bin/Release/net8.0/
+!bin/Release/net8.0/win-x64/publish/
+!bin/Release/net8.0/win-x64/publish/Unquarantine.exe
+!bin/Release/net8.0/win-x64/publish/Unquarantine.pdb
 
 # test artifacts / extracted content
 *.out
