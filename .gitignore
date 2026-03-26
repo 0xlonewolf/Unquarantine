@@ -1,0 +1,25 @@
+bin/
+obj/
+
+# publish outputs (self-contained single-file)
+publish/
+**/publish/
+
+# test artifacts / extracted content
+*.out
+*.met
+*.recovered
+*.name.txt
+*.recovered.name.txt
+
+# IDE/editor
+.vs/
+.vscode/
+*.user
+*.suo
+*.swp
+
+# OS
+Thumbs.db
+*.DS_Store
+
